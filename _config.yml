@@ -1,14 +1,14 @@
 color:
   brandColors:
-    - '#010000'
-    - '#534129'
-    - '#332615'
-    - '#121607'
-    - '#676B30'
+    - '#090B00'
+    - '#211E15'
+    - '#3F4018'
+    - '#575D1F'
+    - '#667532'
   brandStrength: 0.237939
-  lightness: 0.898053
-  rhythmicContrast: 0.599429
-  saturation: 0.993385
+  lightness: 0
+  rhythmicContrast: 0.075658
+  saturation: 0.903509
 layout_spectrum: 0.294956
 name: update
 typography_spectrum: 0.014254
